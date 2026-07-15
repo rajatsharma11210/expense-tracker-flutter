@@ -25,7 +25,7 @@ A modern Flutter application for tracking daily income and expenses with an intu
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/rajatsharma11210/expense-tracker.git
 cd expense-tracker
 flutter pub get
 flutter run
