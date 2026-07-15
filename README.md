@@ -22,8 +22,6 @@ A modern Flutter application for tracking daily income and expenses with an intu
 
 ## 📸 Screenshots
 
-*Add screenshots here.*
-
 ## 🚀 Getting Started
 
 ```bash
